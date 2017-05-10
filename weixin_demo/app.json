@@ -1,0 +1,19 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/ceshi/index",
+    "pages/icon/index",
+    "pages/swiper/index",
+    "pages/calculator/index",
+    "pages/piano/index",
+    "pages/user_info/index",
+    "pages/options/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

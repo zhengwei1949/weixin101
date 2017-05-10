@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <text>{{nickName}}</text>
+  <text>{{gender === 1?'男':'女'}}</text>
+  <text>{{province}}</text>
+  <text>{{city}}</text>
+  <text>{{country}}</text>
+</view>

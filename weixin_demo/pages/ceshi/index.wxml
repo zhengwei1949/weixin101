@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <view>Hello {{name}}</view>
+  <button type="default" bindtap="changeName" size="defaultSize"   hover-class="other-button-hover">Button</button>
+  <button type="default" size="defaultSize" bindtap="nav_to_icon" hover-class="other-button-hover">跳转到图标演示</button>
+  <button type="default" size="defaultSize" bindtap="nav_to_swiper" hover-class="other-button-hover">跳转到swiper</button>
+  <button type="default" size="defaultSize" bindtap="nav_to_cal" hover-class="other-button-hover">跳转到计算器</button>
+  <button type="default" size="defaultSize" bindtap="nav_to_piano" hover-class="other-button-hover">跳转到piano</button>
+  <button type="default" size="defaultSize" bindtap="nav_to_user_info" hover-class="other-button-hover">跳转到用户信息</button>
+  <button type="default" size="defaultSize" bindtap="nav_to_option" hover-class="other-button-hover">传参</button>
+</view>
